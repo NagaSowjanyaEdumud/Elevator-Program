@@ -1,0 +1,5 @@
+#convert elevator floors between European and US countries
+
+floor = input ('Which floor are you in')
+floorinus = int(floor) + 1
+print('This floow in European country correlates to ' + floorinus + ' in United States')
